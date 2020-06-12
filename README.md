@@ -16,7 +16,7 @@ Aplicando conceitos de TDD para implementação do algoritmo *FizzBuzz*:
 **Requirements**
 
     Python 3.6+
-    [Pytest](https://docs.pytest.org/en/stable/)
+    Pytest
 
 **Installation / Getting started**
 
