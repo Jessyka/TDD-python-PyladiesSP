@@ -28,6 +28,12 @@ Aplicando conceitos de TDD para implementação do algoritmo *FizzBuzz*:
 pip install pytest
 ```
 
+**How to run**
+
+```
+python src/__init__.py
+```
+
 **How to run tests**
 
 ```
