@@ -1,4 +1,4 @@
-class FizzBuzz:
+class FizzBuzz():
     def converter(self, numero):
         saida = ''
 
