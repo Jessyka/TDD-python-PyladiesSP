@@ -31,7 +31,7 @@ pip install pytest
 **How to run**
 
 ```
-python src/__init__.py
+python src/main.py
 ```
 
 **How to run tests**
